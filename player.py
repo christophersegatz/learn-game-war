@@ -3,7 +3,7 @@ class Player:
 
     def __init__(self, name):
         self.name = name
-        self.all_cards = []
+        self.all_cards = list
     
     def remove_one(self):
         return self.all_cards.pop()

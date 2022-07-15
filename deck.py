@@ -8,7 +8,7 @@ suits = ('Hearts', 'Diamonds', 'Clubs', 'Spades')
 class Deck:
     def __init__(self):
         #Create a deck of 52 cards
-        self.all_cards = []
+        self.all_cards = list
         for suit in suits:
             for rank in ranks:
                 #create a card Object
