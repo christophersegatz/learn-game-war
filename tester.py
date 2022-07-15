@@ -1,4 +1,4 @@
-import card
+import player
 
-three_of_clubs = card.Card('Clubs', 'Three')
-print(three_of_clubs.value)
+new_player = player.Player("John")
+print(new_player)
