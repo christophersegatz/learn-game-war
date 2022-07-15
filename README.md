@@ -1,2 +1,2 @@
 # Card Game: War
-Project for practising Python Skills.
+This is a project for practising my Python Skills by creating a simple Card Game.
